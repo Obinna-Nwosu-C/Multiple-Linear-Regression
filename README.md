@@ -155,9 +155,9 @@ Skills Demonstrated
 
 Acknowledgments
 
-Dataset source: Kaggle Flood Prediction Dataset
-Scikit-learn documentation and community
-Python data science community
+Dataset source: Kaggle Flood Prediction Dataset,
+Scikit-learn documentation and community,
+Python data science community.
 
 Author
 Obinna Nwosu C
