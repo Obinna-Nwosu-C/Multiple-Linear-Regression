@@ -143,15 +143,15 @@ Recommendations for Future Work
     Cross-Validation: Implement k-fold cross-validation for robustness
     Deployment: Develop API for real-time flood risk assessment
 
-🎓 Skills Demonstrated
+Skills Demonstrated
 
-    ✅ Multiple Linear Regression implementation
-    ✅ Feature selection and correlation analysis
-    ✅ Data visualization (Matplotlib, Seaborn)
-    ✅ Model evaluation and metrics interpretation
-    ✅ Statistical analysis with Pandas and NumPy
-    ✅ Machine learning workflow (train/test split, fitting, prediction)
-    ✅ Professional code documentation
+1. Multiple Linear Regression implementation
+2. Feature selection and correlation analysis
+3. Data visualization (Matplotlib, Seaborn)
+4. Model evaluation and metrics interpretation
+5. Statistical analysis with Pandas and NumPy
+6. Machine learning workflow (train/test split, fitting, prediction)
+7. Professional code documentation
 
 Author
 Obinna Nwosu C
