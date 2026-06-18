@@ -5,7 +5,7 @@ Flood Prediction Model - Multiple Linear Regression
 
 Project Overview
 
-This project implements a **Multiple Linear Regression** model to predict flood probability in Nigeria using 20 environmental and infrastructural features. The model achieves exceptional predictive performance with an R² score of 1.0, demonstrating perfect alignment between predicted and actual flood probabilities.
+This project implements a Multiple Linear Regression model to predict flood probability in Nigeria using 20 environmental and infrastructural features. The model achieves exceptional predictive performance with an R² score of 1.0, demonstrating perfect alignment between predicted and actual flood probabilities.
 
 Objectives
 
@@ -152,6 +152,12 @@ Skills Demonstrated
 5. Statistical analysis with Pandas and NumPy
 6. Machine learning workflow (train/test split, fitting, prediction)
 7. Professional code documentation
+
+Acknowledgments
+
+Dataset source: Kaggle Flood Prediction Dataset
+Scikit-learn documentation and community
+Python data science community
 
 Author
 Obinna Nwosu C
